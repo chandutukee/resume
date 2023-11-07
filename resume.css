@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.headder{
+    background: rgb(9, 9, 82);
+    width: 100%;
+    height: 300px;
+    color: #fff;
+}
+
+.headder h1{
+    margin-left: 50px;
+}
+
+.headder p{
+    margin-left: 60px;
+}
+
+.headder a{
+    margin-left: 62px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.content button{
+    margin-top: 30px;
+    margin-left: 10%;
+    color: rgb(16, 16, 90);
+    background: rgb(230, 227, 227);
+    font-size: 18px;
+    font-weight: 650;
+    align-items: center;
+    border: 1px none;
+    border-radius: 4px;
+    width: 80%;
+}
+
+.content p{
+    text-align: left;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.content .col2{
+    margin-left: 20% ;
+    margin-top: -50px;
+}
+
+.content .col3{
+    margin-top: 60px;
+}
+
+.content .col4{
+    margin-left: 20% ;
+    margin-top: -50px;
+}
+
+.content .col5{
+    margin-top: 60px;
+}
+
+.content .col6{
+    margin-left: 20% ;
+    margin-top: -50px;
+}
+
+.content .dot{
+    margin-left: 10%;
+    font-size: 40px;
+}
+
+.content .info{
+    margin-left: 13%;
+    margin-top: -20px;
+}
+
+.content .col8{
+    margin-left: 20%;
+    margin-top: -35PX;
+}
+
+.content .col9{
+    margin-left: 40%;
+    margin-top: -35PX;
+}
+
+.content .col11{
+    margin-left: 35%;
+    margin-top: -35px;
+}
+
+.content .col13{
+    margin-left: 35%;
+    margin-top: -35px;
+}
+
+.content .dot1{
+    margin-top: -40px;
+    margin-left: 25%;
+    font-size: 40px;
+}
+
+.content .info1{
+    margin-left: 28%;
+    margin-top: -20px;
+}
+
+.content .dot2{
+    margin-top: -40px;
+    margin-left: 42%;
+    font-size: 40px;
+}
+
+.content .info2{
+    margin-left: 45%;
+    margin-top: -20px;
+}
+
+.content .dash{
+    margin-left: 56%;
+}
+
+.content .name{
+    margin-left:63% ;
+}
