@@ -127,3 +127,11 @@
 .content .name{
     margin-left:63% ;
 }
+
+#print{
+    margin-left: 45%;
+    width: 10%;
+    margin-top: 20px;
+    background: blue;
+    color: #fff;
+}
